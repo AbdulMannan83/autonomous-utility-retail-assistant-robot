@@ -1,0 +1,32 @@
+# ROS 2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ROS recordings / large generated files
+*.bag
+*.db3
+*.mcap
+
+# Temporary files
+*.tmp
+*.swp
