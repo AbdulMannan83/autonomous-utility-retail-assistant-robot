@@ -41,9 +41,9 @@ Motor Drivers
 - [x] Motor drivers connected
 - [x] ESP32 motor control
 - [x] Four encoder signals verified
-- [ ] ROS 2 setup
-- [ ] LIDAR integration
-- [ ] RViz2 visualization
+- [x] ROS 2 setup
+- [x] LIDAR integration
+- [x] RViz2 visualization
 - [ ] SLAM mapping
 - [ ] Nav2 navigation
 - [ ] ESP32 ROS 2/serial bridge
